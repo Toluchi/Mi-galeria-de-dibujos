@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galería de Dibujos de Erick Luis Molina Roca</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a la Galería de Dibujos de Erick Luis Molina Roca</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#galeria">Galería</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+    <section id="inicio">
+        <h2>Inicio</h2>
+        <p>Descubre una variedad de dibujos creados por Erick Luis Molina Roca, clasificados por tipos y estilos.</p>
+    </section>
+    <section id="galeria">
+        <h2>Galería</h2>
+        <p>Explora diferentes categorías de dibujos, desde caricaturas hasta paisajes, y encuentra inspiración para tu próxima obra.</p>
+    </section>
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>¿Quieres un dibujo personalizado o tienes alguna pregunta? ¡Contáctame! Déjame tu mensaje y te responderé lo antes posible.</p>
+        <h3>Información de Contacto</h3>
+        <ul>
+            <li>Nombre: Erick Luis Molina Roca</li>
+            <li>Teléfono: 73998176</li>
+            <li><a href="https://wa.me/50773998176">WhatsApp</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>¡Gracias por visitar mi página! Espero que disfrutes de la galería de dibujos.</p>
+    </footer>
+</body>
+</html>
